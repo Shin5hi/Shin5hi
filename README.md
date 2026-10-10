@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- CABECERA ANIMADA (gris) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b5563,100:9ca3af&height=200&section=header&text=Shin5hi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Creator%20Content&descAlignY=55&descSize=20" width="100%"/>
@@ -32,19 +32,19 @@ const shin5hi = {
 
 **Lenguajes**
 <br>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-4b5563?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-4b5563?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-4b5563?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-4b5563?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-4b5563?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4b5563?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 **Frameworks & plataformas**
 <br>
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-<img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white"/>
-<img src="https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-374151?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4b5563?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Astro-4b5563?style=for-the-badge&logo=astro&logoColor=white"/>
+<img src="https://img.shields.io/badge/discord.py-4b5563?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-4b5563?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </div>
 
@@ -92,8 +92,8 @@ const shin5hi = {
 
 <div align="center">
 
-<a href="https://linktr.ee/shin5hi"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white"/></a>
-<a href="https://github.com/Shin5hi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linktr.ee/shin5hi"><img src="https://img.shields.io/badge/Linktree-4b5563?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+<a href="https://github.com/Shin5hi"><img src="https://img.shields.io/badge/GitHub-4b5563?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
